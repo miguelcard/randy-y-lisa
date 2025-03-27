@@ -2,7 +2,7 @@
 
 
 # un reglon comun para todos que puede cambiar
-# Randy es gay
+# Miguel es gay
 # Miguel quiere este cambio pero Lisa no lo quiere
 
 
