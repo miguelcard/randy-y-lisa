@@ -2,8 +2,11 @@
 
 
 # un reglon comun para todos que puede cambiar
-# Randy es super gay y va a ir conmigo a Amsterdam
-# Miguel quiere este cambio pero Lisa no lo quiere, y miguel de verdad lo quiere
+# Miguel es gay Randy es super gay y va a ir conmigo a Amsterdam
+# Miguel quiere este cambio pero Lisa no lo quiere
+
+# Randy did something else here , this is a new feature
+
 
 
 
